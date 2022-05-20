@@ -1,4 +1,4 @@
 ### Olá eu sou Sérgio Santana 👋
 
 
-- 🌱 Estou atualmente estudando Java e JavaScript
+- 🌱 Estudante de Desenvolvimento de Sistemas
