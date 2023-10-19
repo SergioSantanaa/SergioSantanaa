@@ -1,4 +1,5 @@
 ### Olá eu sou Sérgio Santana 👋
 
 
-- 🌱 Estudante de Desenvolvimento de Sistemas
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
+- Estagiário de TI
